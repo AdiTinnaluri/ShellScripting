@@ -1,0 +1,13 @@
+#project-name=busnwmanagertestecn-34287
+project-name="causal-binder-334615"
+cluster-name="cenm-cluster"
+region-name="europe-north1"
+machine-type-1="e2-standard-2"
+#machine-type-2=e2-highmem-16"
+master-ipv4-cidr="172.30.16.64/28"
+cluster-ipv4-cidr="10.1.64.0/18"
+services-ipv4-cidr="10.32.64.0/20"
+#filestore-name=cenm-filestore
+#csar-dir=<CNM_CSAR_NAME>
+ns-name="enm01"
+home=`pwd`
